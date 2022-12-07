@@ -1,0 +1,38 @@
+.width_full {
+    width: 100%;
+}
+
+.p-datatable {
+    margin: 1em;
+}
+
+.p-dropdown-items-wrapper {
+    max-height: 300px !important;
+    border: 1px solid black;
+}
+
+.p-datatable .p-datatable-tbody>tr:hover {
+    background: #929298;
+}
+
+.p-float-label>label {
+    color: #a7b0be;
+}
+
+.p-datatable-wrapper {
+    max-height: 500px !important;
+}
+
+.table-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.table-header-2 {
+    display: flex;
+}
+
+body {
+    background-Color: #2A323D;
+}
